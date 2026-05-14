@@ -61,6 +61,7 @@ Worked on understanding xv6 internals, implementing system calls, and writing Li
 
 ## Multimodal Vision Extension for Satellite Imagery Interpretation
 Worked on multimodal pipelines and classification approaches for satellite imagery interpretation involving captioning, grounding, and VQA tasks for ISRO EO data. Explored multimodal extensions integrating vision capabilities with language models for understanding remote sensing imagery.
+
 ---
 
 # Competitive Programming
