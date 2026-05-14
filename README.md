@@ -84,4 +84,6 @@ Worked on multimodal pipelines and classification approaches for satellite image
 
 # Connect
 
-- GitHub: https://github.com/notASIMO
+- [GitHub](https://github.com/notASIMO/notASIMO.github.io)
+- [LinkedIn](https://www.linkedin.com/in/devang-shukla-ba3360329/)
+- Email: devangshukla916@gmail.com
